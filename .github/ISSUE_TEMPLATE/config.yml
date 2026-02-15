@@ -4,8 +4,8 @@ contact_links:
     url: https://discord.gg/degendiary
     about: Chat with the community and get quick help.
   - name: Help Center
-    url: https://degendiary.app/help
+    url: https://degen-diary.xyz/help
     about: Find answers to common questions.
   - name: Security Vulnerability
-    url: https://github.com/degen-diary/feedback/blob/main/SECURITY.md
+    url: https://github.com/degen-diary/community/blob/main/SECURITY.md
     about: Report security issues privately — do not open a public issue.

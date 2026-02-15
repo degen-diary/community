@@ -29,7 +29,7 @@ This Code of Conduct applies to all Degen Diary community spaces, including this
 
 ## Enforcement
 
-Instances of unacceptable behavior may be reported to **hello@degendiary.app**. All complaints will be reviewed and investigated. The team reserves the right to remove comments, issues, or ban users who violate this Code of Conduct.
+Instances of unacceptable behavior may be reported to **hello@degen-diary.xyz**. All complaints will be reviewed and investigated. The team reserves the right to remove comments, issues, or ban users who violate this Code of Conduct.
 
 ## Attribution
 

@@ -4,7 +4,7 @@
 
 **DO NOT** create a public GitHub issue for security vulnerabilities.
 
-Email: **hello@degendiary.app** (subject line: "Security Report")
+Email: **hello@degen-diary.xyz** (subject line: "Security Report")
 
 We will:
 
@@ -14,7 +14,7 @@ We will:
 
 ## Scope
 
-- degendiary.app (web application)
+- degen-diary.xyz (web application)
 - API endpoints
 - Authentication flows
 

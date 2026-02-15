@@ -1,4 +1,4 @@
-# Degen Diary — Community Feedback
+# Degen Diary — Community
 
 This is where you shape **Degen Diary**, the psychology-first trading journal for crypto traders.
 
@@ -10,12 +10,12 @@ Report bugs, request features, and discuss ideas. Your feedback directly influen
 
 | I want to... | Go to |
 |---|---|
-| Report a bug | [New Bug Report](https://github.com/degen-diary/feedback/issues/new?template=bug_report.yml) |
-| Request a feature | [New Feature Request](https://github.com/degen-diary/feedback/issues/new?template=feature_request.yml) |
-| Share UX feedback | [New UX Feedback](https://github.com/degen-diary/feedback/issues/new?template=ux_feedback.yml) |
-| Discuss an idea | [Discussions](https://github.com/degen-diary/feedback/discussions) |
+| Report a bug | [New Bug Report](https://github.com/degen-diary/community/issues/new?template=bug_report.yml) |
+| Request a feature | [New Feature Request](https://github.com/degen-diary/community/issues/new?template=feature_request.yml) |
+| Share UX feedback | [New UX Feedback](https://github.com/degen-diary/community/issues/new?template=ux_feedback.yml) |
+| Discuss an idea | [Discussions](https://github.com/degen-diary/community/discussions) |
 | Chat with the community | [Discord](https://discord.gg/degendiary) |
-| Get help | [Help Center](https://degendiary.app/help) |
+| Get help | [Help Center](https://degen-diary.xyz/help) |
 | Report a security issue | [Security Policy](SECURITY.md) |
 
 ## Before posting
@@ -35,8 +35,8 @@ Report bugs, request features, and discuss ideas. Your feedback directly influen
 
 ## Links
 
-- [Degen Diary App](https://degendiary.app)
-- [Help Center](https://degendiary.app/help)
+- [Degen Diary App](https://degen-diary.xyz)
+- [Help Center](https://degen-diary.xyz/help)
 - [Discord](https://discord.gg/degendiary)
 - [Twitter / X](https://x.com/degendiary)
 
