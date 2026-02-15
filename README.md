@@ -1,6 +1,10 @@
-# Degen Diary — Community
+<p align="center">
+  <img src="assets/banner.png" alt="Degen Diary" width="100%" />
+</p>
 
-This is where you shape **Degen Diary**, the psychology-first trading journal for crypto traders.
+<h1 align="center">Degen Diary — Community</h1>
+
+<p align="center">This is where you shape <strong>Degen Diary</strong>, the psychology-first trading journal for crypto traders.</p>
 
 Report bugs, request features, and discuss ideas. Your feedback directly influences what we build next.
 
