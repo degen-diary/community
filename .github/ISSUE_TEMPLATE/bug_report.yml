@@ -1,0 +1,77 @@
+name: Bug Report
+description: Something isn't working as expected
+labels: ["type: bug", "status: triage"]
+body:
+  - type: textarea
+    id: what-happened
+    attributes:
+      label: What happened?
+      description: Describe the bug clearly.
+      placeholder: "When I click X, Y happens instead of Z..."
+    validations:
+      required: true
+
+  - type: textarea
+    id: expected
+    attributes:
+      label: What did you expect?
+      description: Describe what you expected to happen.
+    validations:
+      required: true
+
+  - type: textarea
+    id: steps
+    attributes:
+      label: Steps to reproduce
+      description: Help us reproduce the bug.
+      placeholder: |
+        1. Go to '...'
+        2. Click on '...'
+        3. See error
+    validations:
+      required: true
+
+  - type: dropdown
+    id: area
+    attributes:
+      label: Product area
+      options:
+        - Trade creation
+        - Trade history / Dashboard
+        - Analytics / EmoChart
+        - Gamification (XP, achievements, streaks)
+        - Settings
+        - Import / Export
+        - Live prices / Alerts
+        - Wallet sync
+        - AI Coach / Chat
+        - Auth / Login
+        - Other
+    validations:
+      required: true
+
+  - type: dropdown
+    id: tier
+    attributes:
+      label: Your plan
+      options:
+        - Guest (no account)
+        - Free
+        - Pro
+        - Elite
+    validations:
+      required: true
+
+  - type: input
+    id: browser
+    attributes:
+      label: Browser and device
+      placeholder: "e.g., Chrome 121 on macOS, Safari on iPhone 15"
+    validations:
+      required: true
+
+  - type: textarea
+    id: screenshots
+    attributes:
+      label: Screenshots (optional)
+      description: Drag and drop images here if they help explain the issue.

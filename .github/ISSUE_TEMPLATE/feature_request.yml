@@ -1,0 +1,51 @@
+name: Feature Request
+description: Suggest a new feature or improvement
+labels: ["type: feature", "status: triage"]
+body:
+  - type: textarea
+    id: problem
+    attributes:
+      label: What problem does this solve?
+      description: Describe the pain point or frustration.
+      placeholder: "I'm always frustrated when..."
+    validations:
+      required: true
+
+  - type: textarea
+    id: solution
+    attributes:
+      label: Proposed solution
+      description: How would you like this to work?
+    validations:
+      required: true
+
+  - type: textarea
+    id: alternatives
+    attributes:
+      label: Alternatives considered
+      description: Any workarounds you've tried or other approaches you've considered?
+
+  - type: dropdown
+    id: area
+    attributes:
+      label: Product area
+      options:
+        - Journaling
+        - Analytics
+        - Gamification
+        - Smart Rules
+        - AI Coach
+        - Platform (wallet, sync, tools)
+        - Other
+    validations:
+      required: true
+
+  - type: dropdown
+    id: tier-suggestion
+    attributes:
+      label: Which plan should this be in?
+      options:
+        - Free (available to everyone)
+        - Pro
+        - Elite
+        - Not sure

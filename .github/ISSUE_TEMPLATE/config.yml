@@ -1,0 +1,11 @@
+blank_issues_enabled: false
+contact_links:
+  - name: Discord Community
+    url: https://discord.gg/degendiary
+    about: Chat with the community and get quick help.
+  - name: Help Center
+    url: https://degendiary.app/help
+    about: Find answers to common questions.
+  - name: Security Vulnerability
+    url: https://github.com/degen-diary/feedback/blob/main/SECURITY.md
+    about: Report security issues privately — do not open a public issue.

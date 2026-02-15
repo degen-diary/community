@@ -1,0 +1,31 @@
+name: UX Feedback
+description: Something could look or feel better
+labels: ["type: ux", "status: triage"]
+body:
+  - type: textarea
+    id: page
+    attributes:
+      label: Which page or component?
+      placeholder: "e.g., Trade creation form, EmoChart, Settings page"
+    validations:
+      required: true
+
+  - type: textarea
+    id: works-well
+    attributes:
+      label: What works well?
+      description: Tell us what you like about the current experience.
+
+  - type: textarea
+    id: could-improve
+    attributes:
+      label: What could be better?
+      description: Describe the improvement you'd like to see.
+    validations:
+      required: true
+
+  - type: textarea
+    id: mockup
+    attributes:
+      label: Mockup or screenshot (optional)
+      description: Drag and drop images here if they help illustrate your idea.
